@@ -4,10 +4,7 @@
 * [General info](#general-info)
 * [Setup](#setup)
 
-
-
 # General info
-
 The dataset collects data from a wearable accelerometer mounted on the chest. Uncalibrated Accelerometer Data are collected from 15 participants performing 7 activities.
 The dataset is intended for Activity Recognition research purposes. It provides challenges for identification and authentication of people using motion patterns.
 
