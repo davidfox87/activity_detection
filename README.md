@@ -39,13 +39,13 @@ Dataset Information
 * Each file contains the following information
        ---- sequential number, x acceleration, y acceleration, z acceleration, label 
 * Labels are codified by numbers
-1. Working at Computer
-2. Standing Up, Walking and Going up\down stairs
-3. Standin
-4. Walking
-5. Going Up\Down Stairs
-6. Walking and Talking with Someone
-7. Talking while Standing
+  - Working at Computer
+  - Standing Up, Walking and Going up\down stairs
+  - Standing
+  - Walking
+  - Going Up\Down Stairs
+  - Walking and Talking with Someone
+  - Talking while Standing
 
 
 I uploaded these codes to demostrate the following abilities:
@@ -88,4 +88,4 @@ Give examples
 
 
 
-* **David Fox** - *Initial work* - [PurpleBooth](https://github.com/davidfox87)
+* **David Fox** - *Initial work* - [David Fox github profile](https://github.com/davidfox87)
