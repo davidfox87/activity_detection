@@ -39,13 +39,13 @@ Dataset Information
 * Each file contains the following information
        ---- sequential number, x acceleration, y acceleration, z acceleration, label 
 * Labels are codified by numbers
-       --- 1: Working at Computer
-       --- 2: Standing Up, Walking and Going up\down stairs
-       --- 3: Standing
-       --- 4: Walking
-       --- 5: Going Up\Down Stairs
-       --- 6: Walking and Talking with Someone
-       --- 7: Talking while Standing
+1. Working at Computer
+2. Standing Up, Walking and Going up\down stairs
+3. Standin
+4. Walking
+5. Going Up\Down Stairs
+6. Walking and Talking with Someone
+7. Talking while Standing
 
 
 I uploaded these codes to demostrate the following abilities:
